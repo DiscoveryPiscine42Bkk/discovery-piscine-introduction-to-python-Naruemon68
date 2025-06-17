@@ -1,0 +1,5 @@
+first_name = ("Hey, what's your first name? : naruemon ")
+last_name = ("And your last name? : thongphaichit")
+print(first_name)
+print(last_name)
+print("Well, pleased to meet you, naruemon thongphaichit.")
