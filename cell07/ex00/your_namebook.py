@@ -7,9 +7,9 @@ def array_of_names(name_dict):
 
 persons = {
     "naruemon": "thongphaichit",
-    "yadaporn": "rattanakunchorn",
-    "aonaan": "music",
-    "music": "aonaan"
+    "Liam": "Smith",
+    "Olivia": "Jones",
+    "Noah": "Williams"
 }
 
 print(array_of_names(persons))
