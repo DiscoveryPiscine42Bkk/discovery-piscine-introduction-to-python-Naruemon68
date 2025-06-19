@@ -5,6 +5,6 @@ def downcase_it(s):
 
 if len(sys.argv) > 1:
     for arg in sys.argv[1:]:
-        print (douncase_it (arg))
+        print (downcase_it(arg))
 else:
     print("none")
